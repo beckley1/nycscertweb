@@ -1,3 +1,9 @@
 # The Marvelous Wonderful Things I Have Learned This Summer
+---
+## Programming
 
-Blabbity blah blab blah
+---
+## Data Structures
+
+---
+## Methods
