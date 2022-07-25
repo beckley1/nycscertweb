@@ -9,7 +9,7 @@
 |Write     |Things  |
 |Here and  |here.   |
 
-Hopefully, here's some 'inline code'. 
+Hopefully, here's some '''inline code'''. 
 
 ---
 ## Data Structures
